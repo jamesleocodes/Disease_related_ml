@@ -1,5 +1,5 @@
-# Cheminformatics-Mini-Projects
-### A collection of Cheminformatics mini projects to enhance your CV.
+# Disease-Related-Projects
+### A collection of Disease-related-ml projects to enhance your CV.
 
 
 ## Description
@@ -25,8 +25,6 @@ Wellcome Onboard fellow python coder, This is a place where you can start your j
 
 |SR No |Projects  | Author|
 --- | --- | ---|
-|1|bioactivity|James Leo|
-|2|solubility|James Leo|
-|3|toxicity|James Leo|
-|4|smiles_augmentation|James Leo|
+|1|lung_cancer|James Leo|
+
 
